@@ -1,0 +1,61 @@
+name: hadayek_hof
+description: A new Flutter project.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.3
+  flutter_bloc: any
+  encrypt: any
+  flutter_share: any
+  fluttertoast: any
+  http: any
+  url_launcher: any
+  firebase_core: any
+  hexcolor: any
+  rflutter_alert: any
+  flutter_rating_bar: any
+  flutter_offline: any
+  flutter_image_slideshow: any
+  carousel_slider: any
+  cached_network_image: ^3.3.1
+  bloc: ^8.1.3
+  cloud_firestore: ^4.15.5
+  dropdown_textfield: ^1.0.8
+  firebase_storage: ^11.7.4
+  image_picker: ^1.1.1
+  firebase_app_check: ^0.2.2+4
+  firebase_auth: ^4.19.4
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+#  firebase_messaging: ^14.7.16
+  flutter_launcher_icons: ^0.13.1
+
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/new_icona.jpeg"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo/
+    - assets/
+
+  fonts:
+    - family: HSNIbtisam
+      fonts:
+        - asset: assets/fonts/HSN Ibtisam normal/HSN Ibtisam.ttf
+
+    - family: NewIconsForApp
+      fonts:
+        - asset: assets/fonts/NewIconsForApp.ttf

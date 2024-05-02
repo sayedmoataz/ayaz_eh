@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368374923328",
+    "project_id": "ayaz-eh",
+    "storage_bucket": "ayaz-eh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368374923328:android:c909bb6758b068282cdfa5",
+        "android_client_info": {
+          "package_name": "com.example.ayaz_eh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMsNB1Udxql7Vd8onP1zg9Ru00yy_0Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
